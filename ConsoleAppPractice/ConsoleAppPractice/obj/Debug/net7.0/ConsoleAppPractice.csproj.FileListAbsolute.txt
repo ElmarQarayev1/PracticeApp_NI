@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/obj/Debug/net7.0/ConsoleAppPractice.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/obj/Debug/net7.0/ConsoleAppPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/obj/Debug/net7.0/ConsoleAppPractice.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/obj/Debug/net7.0/ConsoleAppPractice.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/obj/Debug/net7.0/ConsoleAppPractice.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/bin/Debug/net7.0/ConsoleAppPractice
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/bin/Debug/net7.0/ConsoleAppPractice.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/bin/Debug/net7.0/ConsoleAppPractice.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/bin/Debug/net7.0/ConsoleAppPractice.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/bin/Debug/net7.0/ConsoleAppPractice.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/obj/Debug/net7.0/ConsoleAppPractice.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/obj/Debug/net7.0/refint/ConsoleAppPractice.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/obj/Debug/net7.0/ConsoleAppPractice.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/obj/Debug/net7.0/ConsoleAppPractice.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ConsoleAppPractice/ConsoleAppPractice/ConsoleAppPractice/obj/Debug/net7.0/ref/ConsoleAppPractice.dll

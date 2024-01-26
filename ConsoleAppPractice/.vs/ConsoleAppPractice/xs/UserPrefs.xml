@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{96655D65-8DB0-4FFC-8FF3-7B39BBB3A4C4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppPractice/Product.cs">
+    <Files>
+      <File FileName="ConsoleAppPractice/Program.cs" Line="163" Column="19" />
+      <File FileName="ConsoleAppPractice/Product.cs" Line="19" Column="1" />
+      <File FileName="ConsoleAppPractice/Market.cs" Line="42" Column="1" />
+      <File FileName="ConsoleAppPractice/DrinkProduct.cs" Line="17" Column="10" />
+      <File FileName="ConsoleAppPractice/IMarket.cs" Line="12" Column="2" />
+      <File FileName="ConsoleAppPractice/IMarketReporter.cs" Line="8" Column="38" />
+      <File FileName="ConsoleAppPractice/Exceptions/ProductExpireDateException.cs" Line="6" Column="1" />
+      <File FileName="ConsoleAppPractice/Exceptions/ProductNotFoundException.cs" Line="6" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleAppPractice" expanded="True">
+            <Node name="ConsoleAppPractice">
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Product.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
